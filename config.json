@@ -1,0 +1,14 @@
+{
+    "ollama": {
+        "use_model": false,
+        "model_name": "llama3.1:8b",
+        "temperature": 1.0,
+        "max_iterations": 20
+    },
+    "openai": {
+        "use_model": true,
+        "model_name": "gpt-4o",
+        "temperature": 1.0,
+        "max_iterations": 20
+    }
+}

@@ -1,0 +1,4 @@
+python-dotenv
+requests==2.32.3
+ollama==0.3.3
+openai==1.45.0
