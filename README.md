@@ -39,14 +39,6 @@
      API_KEY="xxxxx"
      ```
    - 如果使用Ollama托管的开源模型，请确保可以正常访问 Ollama RestFul API 接口，并将 config.json配置文件中的 `use_model` 设置为 true
-     ```bash
-    "ollama": {
-        "use_model": false,
-        "model_name": "llama3.1:8b",
-        "temperature": 1.0,
-        "max_iterations": 20
-    },
-     ```
 
 4. **运行 ReAct Agent 代理**
 
